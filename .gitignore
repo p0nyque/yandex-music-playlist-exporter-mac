@@ -16,9 +16,16 @@ ENV/
 env.bak/
 venv.bak/
 
-# Pycharm
+# IDE
 /.idea
+.vscode/
+
+# Output
+/my_playlists
+
+# Debug
+debug*.py
+debug*.html
 
 *.zip
 geckodriver.log
-/my_playlists
